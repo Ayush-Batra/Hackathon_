@@ -1,0 +1,19 @@
+body{
+  background-color : #000;
+}
+a{
+  text-decoration: none;
+}
+h2{
+  font-size: 1.75rem;
+}
+.card{
+  margin: 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  background-color: #170B3B;
+  color: #fff;
+}
+.card-body{
+  padding-top: 0;
+}
